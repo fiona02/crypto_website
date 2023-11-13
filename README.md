@@ -1,4 +1,4 @@
-# React Website: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS
+# React Website: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS, Recharts and CoinGeko API
 
 ### Images of The Crypto Screener Website:
 
