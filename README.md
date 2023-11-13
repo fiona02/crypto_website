@@ -10,7 +10,9 @@
 ![Crypto-CryptoDetails-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails-Mobile.png)
 ![Crypto-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-Mobile.png)
 
+
 ### Resources Used in This Project
+
 
 - Fonts from https://fonts.google.com/ <br />
 - Icons from https://iconify.design/ <br />
